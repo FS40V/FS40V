@@ -1,8 +1,5 @@
 # Hey there :wave:
 
-| <a href="https://github.com/FS40V/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FS40V&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Farkhanda's github stats" /></a> | <a href="https://github.com/FS40V/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FS40V&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 
 <p align="center"> 
   Visitor count<br>
@@ -14,10 +11,12 @@
 - General Secretary -> NUCES ACM Peshawar Chapter 
 - Trainer at STEM PWR [<img align="left" alt="far| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/stem_pwr?utm_medium=copy_link)
 
+## My github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FS40V&show_icons=true&theme=gotham" alt="Farkhanda Saleem" />
 
 
-## Connect with me on
-- Twitter [<img align="left" alt="far | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FS040V)
+
 
 ## ⚡ Interests :
    - Cloud Computing
