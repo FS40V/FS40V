@@ -10,13 +10,14 @@
 </p>
 
 ## About me
-- :school:Junior/BSCS/FAST NUCES 
+- Junior/BSCS/FAST NUCES 
 - General Secretary -> NUCES ACM Peshawar Chapter 
-- Trainer at STEM PWR -> <img align="left" alt="far| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram](https://instagram.com/stem_pwr?utm_medium=copy_link)
+- Trainer at STEM PWR [<img align="left" alt="far| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/stem_pwr?utm_medium=copy_link)
 
 
 
-- Connect with me at -> <img align="left" alt="far | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter](https://twitter.com/FS040V)
+## Connect with me on
+- Twitter [<img align="left" alt="far | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FS040V)
 
 ## ⚡ Interests :
    - Cloud Computing
