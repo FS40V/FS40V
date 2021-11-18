@@ -2,7 +2,6 @@
 
 ## About me
 - Junior/BSCS/FAST NUCES 
-- GS -> NUCES ACM Peshawar Chapter 
 - Trainer at STEM PWR [<img align="left" alt="far| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/stem_pwr?utm_medium=copy_link)
 
 <p align="center"> 
