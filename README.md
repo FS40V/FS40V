@@ -15,7 +15,3 @@
 
 
 
-## ⚡ Interests :
-   - Cloud Computing
-   - Cyber Security
-   - App development
