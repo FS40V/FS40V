@@ -2,7 +2,7 @@
 
 ## About me
 - Junior/BSCS/FAST NUCES 
-- Trainer at STEM PWR [<img align="left" alt="far| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/stem_pwr?utm_medium=copy_link)
+- Trainer at STEM+ Club PWR [<img align="left" alt="far| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/stem_pwr?utm_medium=copy_link)
 
 <p align="center"> 
   Visitor count<br>
